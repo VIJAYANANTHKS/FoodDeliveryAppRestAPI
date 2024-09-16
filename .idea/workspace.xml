@@ -17,6 +17,9 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -28,6 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "git-widget-placeholder": "br1",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/vijay-pt7666/eclipse-workspace/GitSample",
