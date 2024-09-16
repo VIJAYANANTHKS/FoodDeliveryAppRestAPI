@@ -1,5 +1,6 @@
 test2
-
+<<<<<<< HEAD
+=======
 change in br1
 
 commit after soft reset
