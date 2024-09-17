@@ -3,4 +3,3 @@ test2
 change in br1
 
 commit after soft reset
-
